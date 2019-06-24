@@ -1,5 +1,5 @@
 # Machine Learning Basic
-**Application development with smart camera: ** dùng anaconda và Jupyter Notebook
+**Application development with smart camera: dùng anaconda và Jupyter Notebook**
 
 #### 1.load image:
 A function to read image from an url
